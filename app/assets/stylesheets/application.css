@@ -13,24 +13,24 @@
 */
 
 .links {
-	padding: 110px 0 0 1010px;
-	position: absolute;
+	padding: 10px 0 0 1010px;
 	font-family: helvetica;
+	float: right;
 }
 
 h1 {
 	font-family: helvetica;
 	float: right;
-	padding: 30px 50px 30px 50px;
+	padding: 30px 50px 0px 50px;
 }
 
 #image {
 	position: absolute;
-	height: 30px;
+
 }
 
 p {
-	padding: 10px;
+	padding: 15px 70px 15px 70px;
 	background: green	
 }
 
