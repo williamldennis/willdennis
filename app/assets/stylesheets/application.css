@@ -68,6 +68,11 @@ p {
 
 }
 
+#email {
+	background: #10a6e9;
+
+}
+
 a:link {
 text-decoration:none;
 color: black;
