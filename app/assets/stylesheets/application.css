@@ -140,6 +140,7 @@ a.circle {
 	position: absolute;
 	overflow-y: scroll;
     max-height:690px;
+	padding-right: 100%;
 }
 
 
